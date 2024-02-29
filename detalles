@@ -1,0 +1,3 @@
+quitar valores que se diferencian en centesimas o se correlacionan de columnas constantes.
+Mirar si variable de salida varía mucho (sería bueno)
+Mirar cómo se plotea por si sale como la campana de Gauss (es malo) y quitar valores dispersos
